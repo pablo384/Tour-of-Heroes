@@ -10,12 +10,6 @@
     "e2e": "protractor",
     "preinstall": "npm install -g http-server",
     "postinstall": "ng build && mv dist/* ."
-    // "ng": "ng",
-    // "start": "ng serve",
-    // "build": "ng build",
-    // "test": "ng test",
-    // "lint": "ng lint",
-    // "e2e": "ng e2e"
   },
   "private": true,
   "dependencies": {
